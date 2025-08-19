@@ -1,4 +1,4 @@
-# software-testing-project-on-myntra-app
+# Software-Testing-Project-on-Myntra-app
 🔹 Overview
 
 This project focuses on manual testing of the Myntra mobile application, ensuring smooth functionality, usability, and reliability of the e-commerce platform. The testing process includes creating detailed test cases, executing them, and reporting bugs to improve overall product quality.
